@@ -1,3 +1,3 @@
 # Python_DSA_NPTEL
- I am creating Lecture notes of Nptel video delivered by Madhvan Mukund.
-Authour - Bittu Kumar
+ Creating Lecture notes of Nptel video delivered by Madhvan Mukund on Data structure and Algorithm using Python.
+Note created by - Bittu Kumar
